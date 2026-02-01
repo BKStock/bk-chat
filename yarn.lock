@@ -23186,13 +23186,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hash-base@npm:~3.0, hash-base@npm:~3.0.4":
+"hash-base@npm:~3.0":
   version: 3.0.4
   resolution: "hash-base@npm:3.0.4"
   dependencies:
     inherits: "npm:^2.0.1"
     safe-buffer: "npm:^5.0.1"
   checksum: 10/878465a0dfcc33cce195c2804135352c590d6d10980adc91a9005fd377e77f2011256c2b7cfce472e3f2e92d561d1bf3228d2da06348a9017ce9a258b3b49764
+  languageName: node
+  linkType: hard
+
+"hash-base@npm:~3.0.4":
+  version: 3.0.5
+  resolution: "hash-base@npm:3.0.5"
+  dependencies:
+    inherits: "npm:^2.0.4"
+    safe-buffer: "npm:^5.2.1"
+  checksum: 10/6a82675a5de2ea9347501bbe655a2334950c7ec972fd9810ae9529e06aeab8f7e8ef68fc2112e5e6f0745561a7e05326efca42ad59bb5fd116537f5f8b0a216d
   languageName: node
   linkType: hard
 
