@@ -69,6 +69,7 @@ export const LoginForm = ({ setLoginRoute }: { setLoginRoute: DispatchLoginRoute
 		reValidateMode: 'onChange',
 	});
 
+	console.log(errors);
 	const watchUsernameOrEmail = watch('usernameOrEmail');
 	const watchPassword = watch('password');
 
